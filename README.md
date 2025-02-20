@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Renzo-2009
-- 👀 I’m interested in game development and front/back end...
-- 🌱 I’m currently learning c++/python/java...
+15 years old programmer with big dreams
 
 <!---
 Renzo-2009/Renzo-2009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
