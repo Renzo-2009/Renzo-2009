@@ -21,9 +21,3 @@ To build innovative solutions that can make a meaningful impact in the real worl
 Interests & Technologies
 
 Programming languages: Java, C, C++, JavaScript, Python (learning)
-
-Areas: Algorithms, data structures, competitive programming, robotics, AI, web development
-
-Tools: Git, Linux, VS Code, debugging and testing frameworks
-
-Feel free to explore my repositories and reach out if you want to collaborate or just discuss ideas!
